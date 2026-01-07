@@ -1,0 +1,4 @@
+data/
+experiments/results/
+__pycache__/
+*.pdf
